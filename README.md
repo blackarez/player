@@ -1,5 +1,6 @@
 # This proyect
-This proyect is based: "React basic - Meta" - Coursera.
+This proyect is based: "React basic - Meta" - Coursera:
+https://www.coursera.org/learn/react-basics/
 
 but I changed de code in some lines.
 
